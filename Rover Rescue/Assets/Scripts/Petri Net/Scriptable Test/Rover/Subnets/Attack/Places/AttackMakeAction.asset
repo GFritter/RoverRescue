@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8cba4f26f45b6f4fae8edf31c151d1a, type: 3}
+  m_Name: AttackMakeAction
+  m_EditorClassIdentifier: 
+  id: 12
+  empty: 0
+  connList:
+  - {fileID: 11400000, guid: 4ac926a792f53c74ca0de0571ea5ef9a, type: 2}
+  funcList:
+  - {fileID: 11400000, guid: 7e21025bd7fc7bc4d8ed25d7385316a6, type: 2}
+  - {fileID: 11400000, guid: 15aad3dfd59811d47bb501bb29b53d6a, type: 2}
+  tempCountList: 0
+  ready: 0

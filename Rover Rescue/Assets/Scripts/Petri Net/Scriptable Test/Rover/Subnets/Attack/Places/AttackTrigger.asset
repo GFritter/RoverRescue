@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8cba4f26f45b6f4fae8edf31c151d1a, type: 3}
+  m_Name: AttackTrigger
+  m_EditorClassIdentifier: 
+  id: 10
+  empty: 0
+  connList:
+  - {fileID: 11400000, guid: d8e5ddd572abdbf4fb51d0d5b25aab37, type: 2}
+  funcList:
+  - {fileID: 11400000, guid: efaedfff2efbc4c428dd0f91da1fd97b, type: 2}
+  tempCountList: 0
+  ready: 0

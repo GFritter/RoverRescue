@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e363df98dfa341b4b9e4854a84688ad4, type: 3}
+  m_Name: AttackT3
+  m_EditorClassIdentifier: 
+  id: 0
+  ready: 0
+  connInList:
+  - {fileID: 11400000, guid: 4ac926a792f53c74ca0de0571ea5ef9a, type: 2}
+  connOutList:
+  - {fileID: 11400000, guid: bd40faa283f20e74faddc063980770c7, type: 2}
